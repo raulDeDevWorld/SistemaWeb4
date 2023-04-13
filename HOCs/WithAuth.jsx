@@ -1,4 +1,4 @@
-import Loader from '../components/Loader'
+import Loader from '../components/Loader'   
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 import { useUser } from '../context/Context.js'
